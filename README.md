@@ -3,6 +3,7 @@
 
 ## Installation
 Clone/download this repo and SRS (https://github.com/ossrs/srs), put them in the same directory.
+
 For details about SRS installation, please check out: https://github.com/ossrs/srs/wiki/v4_EN_Home
 
 ## Usage
@@ -13,6 +14,9 @@ Big thanks to the SRS community (https://github.com/ossrs/srs) for abling us the
 
 ## Authors
 Yining Cong 
+
 Christian Gumprecht 
+
 Hanneng Hu
+
 Emirali Caferzade   caferzade@campus.tu-berlin.de
