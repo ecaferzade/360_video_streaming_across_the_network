@@ -6,7 +6,7 @@ Clone/download this repo and SRS (https://github.com/ossrs/srs), put them in the
 For details about SRS installation, please check out: https://github.com/ossrs/srs/wiki/v4_EN_Home
 
 ## Usage
-To use it, just run start_srs.py script.
+To use it, just run *start_srs.py* script.
 
 ## Credits
 Big thanks to the SRS community (https://github.com/ossrs/srs) for abling us the RTMP to HLS conversion using SRS.
